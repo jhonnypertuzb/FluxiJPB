@@ -1,0 +1,5 @@
+{
+  "name": "FunnelGenius",
+  "description": "An AI-powered web application that allows e-commerce users to automatically create high-converting product sales pages. Users describe their product, choose a marketing angle, and the app generates all copy, images, and a ready-to-publish website packaged in a .zip file.",
+  "requestFramePermissions": []
+}
